@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Abhay Varshney </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/abhay25v"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&size=24&center=true&vCenter=true&width=600&height=100&lines=Pursuing+B.Tech+Electrical+and+Electronics+from+IIT+Patna;Web+Developer;ML+Enthusiast;Constant+Learner+!"></a>
+  <a href="https://github.com/abhay25v"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&size=24&center=true&vCenter=true&width=650&height=100&lines=Pursuing+B.Tech+Electrical+and+Electronics+from+IIT+Patna;Web+Developer;ML+Enthusiast;Constant+Learner+!"></a>
 
 ### 💻 About Me
 
@@ -11,7 +11,7 @@
 - 🤔 I’m always curious and enjoy solving complex problems through creative thinking and logical approaches
 - 👨‍💻 MY portfolio website - <a href="https://myportfolio-psi-sable.vercel.app/">Portfolio</a>
 - 💬 Ask me about web development, data structures, algorithms, or anything related to software engineering.
-- 
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
