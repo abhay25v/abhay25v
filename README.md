@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Abhay Varshney </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/abhay25v"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=#fcb647&size=24&center=true&vCenter=true&width=650&height=100&lines=Pursuing+B.Tech+Electrical+and+Electronics+from+IIT+Patna;Web+Developer;ML+Enthusiast;Constant+Learner+!"></a>
+  <a href="https://github.com/abhay25v"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=fcb647&size=24&center=true&vCenter=true&width=650&height=100&lines=Pursuing+B.Tech+Electrical+and+Electronics+from+IIT+Patna;Web+Developer;ML+Enthusiast;Constant+Learner+!"></a>
 
 ### 💻 About Me
 
