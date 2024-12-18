@@ -10,7 +10,6 @@
 - ⚡ I’m constantly working on personal projects to enhance my skills and expand my knowledge.
 - 🤔 I’m always curious and enjoy solving complex problems through creative thinking and logical approaches
 - 👨‍💻 MY portfolio website - <a href="https://myportfolio-psi-sable.vercel.app/">Portfolio</a>
-- 💬 Ask me about web development, data structures, algorithms, or anything related to software engineering.
 
 ### Languages
 
