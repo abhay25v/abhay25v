@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Abhay Varshney </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### 💻 About Me
+## 💻 About Me
 
 - 🔭 I’m a Electrical & Electronics Undergrad at IIT PATNA'27
 - 📚 I’m learning and experimenting with various programming languages and frameworks.
@@ -8,7 +8,7 @@
 - 🤔 I’m always curious and enjoy solving complex problems through creative thinking and logical approaches
 - 👨‍💻 MY portfolio website - <a href="https://myportfolio-psi-sable.vercel.app/">Portfolio</a>
 
-### Languages
+## Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -19,7 +19,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
 
-### Technologies
+## Technologies
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
@@ -30,7 +30,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhay25v&theme=dark&hide_border=false)    &nbsp;&nbsp;&nbsp;&nbsp;  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay25v&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🌐 Socials:
