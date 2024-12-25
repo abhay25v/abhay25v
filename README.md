@@ -1,11 +1,8 @@
 <h1 align="center"><b>Hi , I'm Abhay Varshney </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://github.com/abhay25v"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=fcb647&size=24&center=true&vCenter=true&width=650&height=100&lines=Pursuing+B.Tech+Electrical+and+Electronics+from+IIT+Patna;Web+Developer;ML+Enthusiast;Constant+Learner+!"></a>
-
 ### 💻 About Me
 
-- 🔭 I’m a Student at IIT PATNA'27
+- 🔭 I’m a Electrical & Electronics Undergrad at IIT PATNA'27
 - 📚 I’m learning and experimenting with various programming languages and frameworks.
 - ⚡ I’m constantly working on personal projects to enhance my skills and expand my knowledge.
 - 🤔 I’m always curious and enjoy solving complex problems through creative thinking and logical approaches
@@ -34,7 +31,6 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhay25v&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhay25v&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay25v&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
