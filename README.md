@@ -22,15 +22,11 @@
 # 📊 GitHub Stats:
 <div><img width=390 src="https://github-readme-stats.vercel.app/api?username=abhay25v&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhay25v&theme=dark&hide_border=false)<br/>
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay25v&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /><div>
 
 
 <div align="center">
-  <h2>✨ My Contributions ✨</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abhay25v/abhay25v/output/github-contribution-grid-snake-dark.svg" />
-  
   <br/><br/><br/>
 </div>
 
