@@ -6,7 +6,7 @@
 - 📚 I’m learning and experimenting with various programming languages and frameworks.
 - ⚡ I’m constantly working on personal projects to enhance my skills and expand my knowledge.
 - 🤔 I’m always curious and enjoy solving complex problems through creative thinking and logical approaches
-- 👨‍💻 MY portfolio website - <a href="https://myportfolio-psi-sable.vercel.app/">Portfolio</a>
+<!---- 👨‍💻 MY portfolio website - <a href="https://myportfolio-psi-sable.vercel.app/">Portfolio</a>--->
 
 ## Languages
 
