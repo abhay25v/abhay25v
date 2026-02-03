@@ -30,7 +30,9 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abhay25v/abhay25v/output/github-contribution-grid-snake-dark.svg" />
   <br/>
 </div>
-
+<p align="center">
+<img src="assets/space-shooter.gif" />
+</p>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-varshney-25v/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/abhay25v) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_abhayv254_/)
