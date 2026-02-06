@@ -31,7 +31,7 @@
   <br/>
 </div>
 <p align="center">
-<img src="assets/space-shooter.gif" />
+<img src="game.gif" />
 </p>
 
 ### 🌐 Socials:
