@@ -21,9 +21,14 @@
 
 <!---[![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhay25v&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)--->
 # 📊 GitHub Stats:
-<span><img width=490 src="https://github-readme-stats.vercel.app/api?username=abhay25v&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width=325 align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay25v&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></span>
+<div align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=&preferLogin=false">
+    <img alt="abhay25v's GitHub Stats" 
+         src="https://awesome-github-stats.azurewebsites.net/user-stats/abhay25v?cardType=github&theme=github-dark&fontFamily=&preferLogin=false" />
+  </a>
+
+<!---<img width=325 align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay25v&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />--->
+</div>
 
 
 <div align="center">
